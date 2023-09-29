@@ -13,6 +13,10 @@
 
 ##My stack :
 
-![React]{https://cdn.worldvectorlogo.com/logos/react-2.svg}
+![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
+![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
+![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
+![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
+![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)
 
 Have a beautiful day!
