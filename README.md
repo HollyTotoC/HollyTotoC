@@ -13,8 +13,6 @@
 
 ##My stack :
 
-![React](https://cdn.worldvectorlogo.com/logos/react-2.svg {width=40px height=400px})
-
-<img src="https://github.com/favicon.ico](https://cdn.worldvectorlogo.com/logos/react-2.sv)https://cdn.worldvectorlogo.com/logos/react-2.sv" width="50" height="50">
+<img src="https://github.com/HollyTotoC/HollyTotoC/assets/102057115/9e568edb-aebe-47fb-bab6-1586d68cdaac" width="60" height="60">
 
 Have a beautiful day!
