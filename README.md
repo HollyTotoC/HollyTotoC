@@ -6,7 +6,7 @@
 ###Check out my [Portfolio]{https://totocerta.dev/}
 
 - 🔭 I’m currently working on "Quel-or" and the website for "Editions Jean de Portal."
-- 🌱 I’m currently improving my skills in React, TypeScript, and Next... Check out what I made: [Meteo App](https://meteo-app-virid.vercel.app/)
+- 🌱 I’m currently improving my skills in React, TypeScript, and Next...
 - 📫 Want to reach out? My LinkedIn and WeLoveDevs profiles are linked in my profile.
 - 👯 I’m eager to collaborate on more React projects to learn as much as possible!
 - ⚡ Fun fact: I'm also a DJ.
