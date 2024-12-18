@@ -1,5 +1,5 @@
 ## Hi there 👋 Bonjour tout le monde :D
-# I'm Toto, a full-stack developer!
+# I'm Toto, a front-end developer!
 
 ### However, I lean more towards front-end because I enjoy being part of the creative aspect of the job. 10 years of editing and motion design experience have trained my eyes well.
 
